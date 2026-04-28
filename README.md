@@ -8,4 +8,4 @@ This project is a final project. I will be creating a portfolio using my HTML an
 -Resume page (resume.html)
 -Projects page (projects.html)
 # My Published Site Url
-[]
+[https://teaganrathmann.github.io/Teagan-Rathmann/]
