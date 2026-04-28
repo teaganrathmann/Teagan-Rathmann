@@ -1,0 +1,14 @@
+/* Styles By Teagan Rathmann */
+/*Color Palette
+/* Color Theme Swatches in Hex 
+.Miami-South-Beach-1-hex { color: #F6EEFD; }
+.Miami-South-Beach-2-hex { color: #65ADDF; }
+.Miami-South-Beach-3-hex { color: #250908; }
+.Miami-South-Beach-4-hex { color: #C95B64; }
+.Miami-South-Beach-5-hex { color: #802129; }
+*/
+
+/* GLOBAL (base) MOBILE FIRST */
+body{
+    background-color: #F6EEFD;  
+}
